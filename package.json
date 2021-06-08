@@ -1,0 +1,19 @@
+{
+  "name": "dhcp-node",
+  "version": "1.0.0",
+  "description": "DHCP client in Node.JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/metastable-void/dhcp-node.git"
+  },
+  "author": "",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/metastable-void/dhcp-node/issues"
+  },
+  "homepage": "https://github.com/metastable-void/dhcp-node#readme"
+}
